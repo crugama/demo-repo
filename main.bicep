@@ -1,5 +1,5 @@
 param rg_dnszone_name string = 'rg-dnszone-fundenusecomni'
-param dnsZoneName string = 'fundenuse.com.ni'
+param dnsZoneName string = 'fundenuse'
 
 targetScope = 'subscription'
 
